@@ -3,6 +3,7 @@
 # Bash Script to get info about server space and send the same to server admin.
 # Setup mail service on server before email functionality works.
 
+
 MAX=95
 EMAIL=mail@example.com
 
